@@ -1,2 +1,8 @@
 cleaned_csv.zip filter=lfs diff=lfs merge=lfs -text
 Project.ipynb filter=lfs diff=lfs merge=lfs -text
+abort_data_with_duplicatedtext.csv filter=lfs diff=lfs merge=lfs -text
+train_poli_data.csv filter=lfs diff=lfs merge=lfs -text
+abort_data_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+abort_data_without_duplicatedtext.csv filter=lfs diff=lfs merge=lfs -text
+sentiment_score_comparison.csv filter=lfs diff=lfs merge=lfs -text
+train_labeled.csv filter=lfs diff=lfs merge=lfs -text
